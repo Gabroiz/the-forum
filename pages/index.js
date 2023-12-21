@@ -1,3 +1,3 @@
 export default function Home() {
-    return <h1>Whey é bom demaise 🤙</h1>
+    return <h1>Vaga na gringa :D</h1>
 }
